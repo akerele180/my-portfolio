@@ -1,0 +1,11 @@
+h3 {
+    font-family: 'Quintessential', cursive;
+    font-size: 40px !important;
+    letter-spacing: .8rem;
+}
+a {
+    font-size: 1.3rem !important;
+}
+nav {
+    /* padding: 20px 0 !important; */
+}
